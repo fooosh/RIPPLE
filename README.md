@@ -1,7 +1,5 @@
 # RIPPLE: Repository for Image Post-Processing Large Entities
-
-![RIPPLElogo1](https://user-images.githubusercontent.com/80370952/181083627-114b5bef-720e-4e34-9d37-539ada9d350c.png)
-
+![RIPPLElogo2](https://user-images.githubusercontent.com/80370952/181084011-184db5b6-0087-45fd-97d3-e09481352736.png)
 ## Photogrammetry Background 
 
 Photogrammetry is an imaging technique used to create three-dimensional models from a stack of overlapping two-dimensional images. Requiring only a 360˚ series of photos and one measurement to develop an accurately scaled 3D model, photogrammetry is a quick, low-cost data collection technique. Using these images and photogrammetry software, such as Meshroom (https://alicevision.org/) or Photomodeler (https://www.photomodeler.com/), users are able to recreate individual 3D models of objects of interest as well as fully scaled environments. Photogrammetry has become a commonly used method for developing three-dimensional models for fluid dynamics and biomechanics analyses as well as a useful tool for the science outreach community. The user-friendly steps of photogrammetry have recently gained appeal in the virtual reality world as developing accurate models and immersive realities from real world environments is possible with very fine tuned photogrammetry images. 
