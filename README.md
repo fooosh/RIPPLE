@@ -22,7 +22,6 @@ Here we present downloadable action files to import into Adobe Photoshop to edit
 * Import the action file into Photoshop
 * Batch edit photogrammetry photos with RIPPLE pre-set
 
-
 ![ripple workflow](https://user-images.githubusercontent.com/80370952/178154870-de9df17d-3d44-4af9-953d-284e7cf49cfb.PNG)
 
 ## Video Tutorial
