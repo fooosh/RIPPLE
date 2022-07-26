@@ -35,7 +35,7 @@ For a better look at the textured North Atlantic Right Whale 3D model, please vi
 
 ## Stay Tuned
 
-We are always working on ways to make RIPPLE more accesible! We are currently developing pre-sets for free imaging software such as ImageJ, Gimp, and PhotoP. 
+We are always working on ways to make RIPPLE more accesible! We are currently developing pre-sets for free imaging software such as ImageJ, Gimp, and PhotoPea. 
 
 ## Team
 
