@@ -1,6 +1,6 @@
 # RIPPLE: Repository for Image Post-Processing Large Entities
 
-![ripple logo](https://user-images.githubusercontent.com/80370952/178155076-ed81e114-0903-4345-aca1-17aca98467cb.PNG)
+![RIPPLElogo1](https://user-images.githubusercontent.com/80370952/181083627-114b5bef-720e-4e34-9d37-539ada9d350c.png)
 
 ## Photogrammetry Background 
 
