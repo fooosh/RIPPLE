@@ -21,18 +21,6 @@ Here we present downloadable action files to import into Adobe Photoshop to edit
 * Import the action file into Photoshop
 * Batch edit photogrammetry photos with RIPPLE pre-set
 
-## Video Tutorial
-
-(youtube link here)
-
-## Examples
-
-Here we present the results of 3D models created from image stacks that used RIPPLE to remove background noise, glare, shadows, and haze compared to 3D models created from the raw, un-edited images. 
-
-(insert before and after photos from poster)
-
-For a better look at the textured North Atlantic Right Whale 3D model, please view the model on Sketchfab: https://sketchfab.com/3d-models/north-atlantic-right-whale-textured-model-1d083b2adb2b44f1aba1e3477c3be3f3
-
 ## Stay Tuned
 
 We are always working on ways to make RIPPLE more accesible! We are currently developing pre-sets for free imaging software such as ImageJ, Gimp, and PhotoPea. 
