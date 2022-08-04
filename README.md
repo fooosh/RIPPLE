@@ -28,3 +28,6 @@ We are always working on ways to make RIPPLE more accesible! We are currently de
 ## Team
 
 RIPPLE was developed by Audrey Biondi Kellogg and Dr. Christin Murphy 
+
+Email: aab53@njit.edu 
+
